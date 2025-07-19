@@ -2,7 +2,7 @@
 
 ## Hazırlık Süreci
 Matemaik Konuları:
-| Konu                        | Alt Başlıklar                          | Neden Önemli?                                      | DURUM(✓ - X) |
+| Konu                        | Alt Başlıklar                          | Neden Önemli?                                      |
 | --------------------------- | -------------------------------------- | -------------------------------------------------- |               
 | **Fonksiyonlar**            | Tanım, grafik, ters, işaret, bileşke   | Temel yapı taşı, birçok konuda kullanılır          |
 | **Polinomlar**              | Çarpanlara ayırma, işlem, kalan        | Denklem kurma ve sadeleştirme                      |
