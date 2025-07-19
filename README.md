@@ -26,3 +26,13 @@ Fizik Konuları:
 | **Manyetizma & Endüksiyon** | Faraday, Lenz, bobin, transformatör           | Motor, jeneratör ve kablosuz sistem mantığı |
 | **AC – Alternatif Akım**    | Sinüs dalgası, genlik, frekans, faz           | Elektriksel analizlerde temel               |
 | **Dalga & Sinyal Fiziği**   | Analog – dijital sinyaller, titreşim, frekans | Sinyal işleme, haberleşme sistemleri        |
+
+Başlangıçta En Önemli 6 Konu
+| Öncelik | Konu                      | Alan             |
+| ------- | ------------------------- | ---------------- |
+| 1️⃣     | Türev & İntegral          | Matematik        |
+| 2️⃣     | Elektrik – Akım – Gerilim | Fizik            |
+| 3️⃣     | Newton Yasaları & Hareket | Fizik            |
+| 4️⃣     | Trigonometri              | Matematik        |
+| 5️⃣     | Matris ve Lineer Denklem  | Matematik        |
+| 6️⃣     | Sinyal & Frekans          | Fizik + Uygulama |
