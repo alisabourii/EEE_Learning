@@ -2,8 +2,8 @@
 
 ## Hazırlık Süreci
 Matemaik Konuları:
-| Konu                        | Alt Başlıklar                          | Neden Önemli?                                      |
-| --------------------------- | -------------------------------------- | -------------------------------------------------- |
+| Konu                        | Alt Başlıklar                          | Neden Önemli?                                      | DURUM(✓ - X) |
+| --------------------------- | -------------------------------------- | -------------------------------------------------- |               
 | **Fonksiyonlar**            | Tanım, grafik, ters, işaret, bileşke   | Temel yapı taşı, birçok konuda kullanılır          |
 | **Polinomlar**              | Çarpanlara ayırma, işlem, kalan        | Denklem kurma ve sadeleştirme                      |
 | **Trigonometri**            | Sin, cos, tan, birim çember, formüller | AC devreler, sinyal ve sistemlerde çok önemli      |
