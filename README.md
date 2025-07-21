@@ -4,8 +4,8 @@
 Matemaik Konuları:
 | Konu                        | Alt Başlıklar                          | Neden Önemli?                                      |
 | --------------------------- | -------------------------------------- | -------------------------------------------------- |               
-| **Fonksiyonlar**            | Tanım, grafik, ters, işaret, bileşke   | Temel yapı taşı, birçok konuda kullanılır          |
-| **Polinomlar**              | Çarpanlara ayırma, işlem, kalan        | Denklem kurma ve sadeleştirme                      |
+| **Fonksiyonlar**            | Tanım, grafik, ters, işaret, bileşke   | Temel yapı taşı, birçok konuda kullanılır  (Tamam) |
+| **Polinomlar**              | Çarpanlara ayırma, işlem, kalan        | Denklem kurma ve sadeleştirme              (Tamam) |
 | **Trigonometri**            | Sin, cos, tan, birim çember, formüller | AC devreler, sinyal ve sistemlerde çok önemli      |
 | **Limit & Süreklilik**      | Limit alma, kopma noktaları            | Türev’in temeli, mühendislik analizlerinde gerekli |
 | **Türev**                   | Kurallar, grafik, max–min, uygulama    | Hız, ivme, akım değişimi, eğim hesapları           |
