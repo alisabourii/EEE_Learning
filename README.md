@@ -15,6 +15,8 @@ Matemaik Konuları:
 | **Kompleks Sayılar**        | a + jb, kutupsal form, faz             | AC devre analizi                                   |
 | **Logaritma & Üstel**       | aⁿ, logₐ(n), e tabanlı fonksiyonlar    | RC, RL devre çözümünde zamanla değişim             |
 
+Playlist Link: https://www.youtube.com/playlist?list=PLcNWqzWzYG2v5_R_uPyLRzGXSoYgjfd8C
+
 Fizik Konuları:
 | Konu                        | Alt Başlıklar                                 | Neden Önemli?                               |
 | --------------------------- | --------------------------------------------- | ------------------------------------------- |
@@ -26,6 +28,8 @@ Fizik Konuları:
 | **Manyetizma & Endüksiyon** | Faraday, Lenz, bobin, transformatör           | Motor, jeneratör ve kablosuz sistem mantığı |
 | **AC – Alternatif Akım**    | Sinüs dalgası, genlik, frekans, faz           | Elektriksel analizlerde temel               |
 | **Dalga & Sinyal Fiziği**   | Analog – dijital sinyaller, titreşim, frekans | Sinyal işleme, haberleşme sistemleri        |
+
+Playlist Link: https://www.youtube.com/watch?v=95KY3QT9R30&list=PLAMR0zvBTS1O-uYk0Tg1MAReOBwkHbLAt&index=5
 
 Başlangıçta En Önemli 6 Konu
 | Öncelik | Konu                      | Alan             |
