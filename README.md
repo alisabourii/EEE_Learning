@@ -26,7 +26,7 @@ Fizik Konuları:
 | **Kirchhoff Yasaları X**    | Akım (KCL), Gerilim (KVL)                     | Karmaşık devre çözümünde şart               |
 | **Seri – Paralel Devreler X** | Rtop, Itop, Vtop                              | Çok elemanlı devre çözümü                   |
 | **Manyetizma & Endüksiyon** | Faraday, Lenz, bobin, transformatör           | Motor, jeneratör ve kablosuz sistem mantığı |
-| **AC – Alternatif Akım**    | Sinüs dalgası, genlik, frekans, faz           | Elektriksel analizlerde temel               |
+| **AC – Alternatif Akım X**    | Sinüs dalgası, genlik, frekans, faz           | Elektriksel analizlerde temel               |
 | **Dalga & Sinyal Fiziği**   | Analog – dijital sinyaller, titreşim, frekans | Sinyal işleme, haberleşme sistemleri        |
 
 Playlist Link: https://www.youtube.com/watch?v=95KY3QT9R30&list=PLAMR0zvBTS1O-uYk0Tg1MAReOBwkHbLAt&index=5
