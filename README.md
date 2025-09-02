@@ -19,16 +19,17 @@ Matemaik Konuları:
 Playlist Link: https://www.youtube.com/playlist?list=PLcNWqzWzYG2v5_R_uPyLRzGXSoYgjfd8C
 
 Fizik Konuları:
-| Konu                        | Alt Başlıklar                                 | Neden Önemli?                               |
-| --------------------------- | --------------------------------------------- | ------------------------------------------- |
-| **Kuvvet – Hareket**        | Newton yasaları, serbest cisim, grafik        | Robotik, mekanik, sistem fiziği             |
-| **İş – Güç – Enerji**       | Kinetik, potansiyel, enerji korunumu          | Verim ve devrelerin enerji hesaplaması      |
-| **Elektrik & Devre Fiziği** | Gerilim, akım, direnç (Ohm Kanunu)            | Devre çözümünün temeli                      |
-| **Kirchhoff Yasaları X**    | Akım (KCL), Gerilim (KVL)                     | Karmaşık devre çözümünde şart               |
-| **Seri – Paralel Devreler X** | Rtop, Itop, Vtop                              | Çok elemanlı devre çözümü                   |
-| **Manyetizma & Endüksiyon** | Faraday, Lenz, bobin, transformatör           | Motor, jeneratör ve kablosuz sistem mantığı |
-| **AC – Alternatif Akım X**    | Sinüs dalgası, genlik, frekans, faz           | Elektriksel analizlerde temel               |
-| **Dalga & Sinyal Fiziği**   | Analog – dijital sinyaller, titreşim, frekans | Sinyal işleme, haberleşme sistemleri        |
+| Konu                        | Alt Başlıklar                                 | Neden Önemli?                               | Bitti |
+| --------------------------- | --------------------------------------------- | ------------------------------------------- | ----- |
+| **Kuvvet – Hareket**        | Newton yasaları, serbest cisim, grafik        | Robotik, mekanik, sistem fiziği             | ⬜    |
+| **İş – Güç – Enerji**       | Kinetik, potansiyel, enerji korunumu          | Verim ve devrelerin enerji hesaplaması      | ⬜    |
+| **Elektrik & Devre Fiziği** | Gerilim, akım, direnç (Ohm Kanunu)            | Devre çözümünün temeli                      | ⬜    |
+| **Kirchhoff Yasaları**      | Akım (KCL), Gerilim (KVL)                     | Karmaşık devre çözümünde şart               | ⬜    |
+| **Seri – Paralel Devreler** | Rtop, Itop, Vtop                              | Çok elemanlı devre çözümü                   | ⬜    |
+| **Manyetizma & Endüksiyon** | Faraday, Lenz, bobin, transformatör           | Motor, jeneratör ve kablosuz sistem mantığı | ⬜    |
+| **AC – Alternatif Akım**    | Sinüs dalgası, genlik, frekans, faz           | Elektriksel analizlerde temel               | ⬜    |
+| **Dalga & Sinyal Fiziği**   | Analog – dijital sinyaller, titreşim, frekans | Sinyal işleme, haberleşme sistemleri        | ⬜    |
+
 
 Playlist Link: https://www.youtube.com/watch?v=95KY3QT9R30&list=PLAMR0zvBTS1O-uYk0Tg1MAReOBwkHbLAt&index=5
 
