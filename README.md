@@ -24,10 +24,10 @@ Fizik Konuları:
 | **Kuvvet – Hareket**        | Newton yasaları, serbest cisim, grafik        | Robotik, mekanik, sistem fiziği             | ⬜    |
 | **İş – Güç – Enerji**       | Kinetik, potansiyel, enerji korunumu          | Verim ve devrelerin enerji hesaplaması      | ⬜    |
 | **Elektrik & Devre Fiziği** | Gerilim, akım, direnç (Ohm Kanunu)            | Devre çözümünün temeli                      | ⬜    |
-| **Kirchhoff Yasaları**      | Akım (KCL), Gerilim (KVL)                     | Karmaşık devre çözümünde şart               | ⬜    |
-| **Seri – Paralel Devreler** | Rtop, Itop, Vtop                              | Çok elemanlı devre çözümü                   | ⬜    |
+| **Kirchhoff Yasaları**      | Akım (KCL), Gerilim (KVL)                     | Karmaşık devre çözümünde şart               | ✅    |
+| **Seri – Paralel Devreler** | Rtop, Itop, Vtop                              | Çok elemanlı devre çözümü                   | ✅    |
 | **Manyetizma & Endüksiyon** | Faraday, Lenz, bobin, transformatör           | Motor, jeneratör ve kablosuz sistem mantığı | ⬜    |
-| **AC – Alternatif Akım**    | Sinüs dalgası, genlik, frekans, faz           | Elektriksel analizlerde temel               | ⬜    |
+| **AC – Alternatif Akım**    | Sinüs dalgası, genlik, frekans, faz           | Elektriksel analizlerde temel               | ✅    |
 | **Dalga & Sinyal Fiziği**   | Analog – dijital sinyaller, titreşim, frekans | Sinyal işleme, haberleşme sistemleri        | ⬜    |
 
 
