@@ -21,7 +21,7 @@ Playlist Link: https://www.youtube.com/playlist?list=PLcNWqzWzYG2v5_R_uPyLRzGXSo
 Fizik Konuları:
 | Konu                        | Alt Başlıklar                                 | Neden Önemli?                               | Bitti |
 | --------------------------- | --------------------------------------------- | ------------------------------------------- | ----- |
-| **Kuvvet – Hareket**        | Newton yasaları, serbest cisim, grafik        | Robotik, mekanik, sistem fiziği             | ⬜    |
+| **Kuvvet – Hareket**        | Newton yasaları, serbest cisim, grafik        | Robotik, mekanik, sistem fiziği             | ✅    |
 | **İş – Güç – Enerji**       | Kinetik, potansiyel, enerji korunumu          | Verim ve devrelerin enerji hesaplaması      | ⬜    |
 | **Elektrik & Devre Fiziği** | Gerilim, akım, direnç (Ohm Kanunu)            | Devre çözümünün temeli                      | ⬜    |
 | **Kirchhoff Yasaları**      | Akım (KCL), Gerilim (KVL)                     | Karmaşık devre çözümünde şart               | ✅    |
