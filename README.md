@@ -36,7 +36,7 @@ Playlist Link: https://www.youtube.com/watch?v=95KY3QT9R30&list=PLAMR0zvBTS1O-uY
 Başlangıçta En Önemli 6 Konu
 | Öncelik | Konu                      | Alan             |
 | ------- | ------------------------- | ---------------- |
-| 1️⃣     | Türev & İntegral          | Matematik        |
+| 1️⃣     | Limit&Türev & İntegral          | Matematik        |
 | 2️⃣     | Elektrik – Akım – Gerilim | Fizik            |
 | 3️⃣     | Newton Yasaları & Hareket | Fizik            |
 | 4️⃣     | Trigonometri              | Matematik        |
