@@ -42,3 +42,7 @@ Başlangıçta En Önemli 6 Konu
 | 4️⃣     | Trigonometri              | Matematik        |
 | 5️⃣     | Matris ve Lineer Denklem  | Matematik        |
 | 6️⃣     | Sinyal & Frekans          | Fizik + Uygulama |
+
+
+
+
