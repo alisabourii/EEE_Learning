@@ -21,7 +21,7 @@ Başlangıçta En Önemli 6 Konu
 | Öncelik | Konu                      | Alan             |
 | ------- | ------------------------- | ---------------- |
 | 1️⃣     | Limit&Türev & İntegral          | Matematik        |
-| 2️⃣     | Elektrik – Akım – Gerilim | Fizik            |
+| 2️⃣     | Elektrik – Akım – Gerilim | Fizik  XXX          |
 | 3️⃣     | Newton Yasaları & Hareket | Fizik            |
 | 4️⃣     | Trigonometri              | Matematik        |
 | 5️⃣     | Matris ve Lineer Denklem  | Matematik        |
